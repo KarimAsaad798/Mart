@@ -1,0 +1,17 @@
+:host ::ng-deep .card {
+
+    background-color: greenyellow;
+
+}
+
+app-navbar {
+
+    width:100%
+
+}
+
+.form-control {
+
+    width: 200px;
+
+}
